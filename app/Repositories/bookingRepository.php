@@ -8,7 +8,7 @@ use App\Repositories\BaseRepository;
 /**
  * Class bookingRepository
  * @package App\Repositories
- * @version February 24, 2025, 3:26 pm UTC
+ * @version March 10, 2025, 3:09 pm UTC
 */
 
 class bookingRepository extends BaseRepository

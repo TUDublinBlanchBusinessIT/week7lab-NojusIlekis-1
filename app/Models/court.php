@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 /**
  * Class court
  * @package App\Models
- * @version February 24, 2025, 3:26 pm UTC
+ * @version March 10, 2025, 3:08 pm UTC
  *
  * @property \Illuminate\Database\Eloquent\Collection $bookings
  * @property string $surface
